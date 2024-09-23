@@ -1,0 +1,26 @@
+URL,Id,Impact,Description,Help,HelpUrl
+https://qalified.com/,color-contrast-enhanced,serious,Ensure the contrast between foreground and background colors meets WCAG 2 AAA enhanced contrast ratio thresholds,Elements must meet enhanced color contrast ratio thresholds,https://dequeuniversity.com/rules/axe/4.10/color-contrast-enhanced?application=playwright
+,.hero-texto > h3,
+https://qalified.com/,color-contrast,serious,Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds,Elements must meet minimum color contrast ratio thresholds,https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=playwright
+,.tagline-sm.mx-auto.col-md-12,
+,.container > .tagline-sm,
+https://qalified.com/,link-name,serious,Ensure links have discernible text,Links must have discernible text,https://dequeuniversity.com/rules/axe/4.10/link-name?application=playwright
+,.logo-pie > a[href$="qalified.com/"],
+,li:nth-child(1) > a[target="_blank"][rel="nofollow"],
+,li:nth-child(2) > a[target="_blank"][rel="nofollow"],
+,a[href$="qalified"][target="_blank"][rel="nofollow"],
+,li:nth-child(4) > a[target="_blank"][rel="nofollow"],
+,li:nth-child(5) > a[target="_blank"][rel="nofollow"],
+,#iframe-0\.25428734242827167,.logotype,
+,a[href$="#top"],
+https://qalified.com/success-stories/,color-contrast,serious,Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds,Elements must meet minimum color contrast ratio thresholds,https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=playwright
+,.next,
+https://qalified.com/success-stories/,link-name,serious,Ensure links have discernible text,Links must have discernible text,https://dequeuniversity.com/rules/axe/4.10/link-name?application=playwright
+,.logo-pie > a[href$="qalified.com/"],
+,li:nth-child(1) > a[target="_blank"][rel="nofollow"],
+,li:nth-child(2) > a[target="_blank"][rel="nofollow"],
+,a[href$="qalified"][target="_blank"][rel="nofollow"],
+,li:nth-child(4) > a[target="_blank"][rel="nofollow"],
+,li:nth-child(5) > a[target="_blank"][rel="nofollow"],
+,#iframe-0\.5921511646846624,.logotype,
+,a[href$="#top"],

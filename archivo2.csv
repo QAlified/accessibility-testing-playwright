@@ -1,0 +1,27 @@
+URL,Id,Impact,Description,Help,HelpUrl
+https://katalon-demo-cura.herokuapp.com/#appointment,color-contrast-enhanced,serious,Ensure the contrast between foreground and background colors meets WCAG 2 AAA enhanced contrast ratio thresholds,Elements must meet enhanced color contrast ratio thresholds,https://dequeuniversity.com/rules/axe/4.10/color-contrast-enhanced?application=playwright
+,.sidebar-brand > a[href="./"][onclick="$('#menu-close').click();"],
+,label[for="combo_facility"],
+,.checkbox-inline,
+,.form-group:nth-child(3) > .col-sm-offset-3.col-sm-2.control-label,
+,.radio-inline:nth-child(1),
+,.radio-inline:nth-child(2),
+,.radio-inline:nth-child(3),
+,label[for="txt_visit_date"],
+,label[for="txt_comment"],
+,a[href$="mailto:info@katalon.com"],
+https://katalon-demo-cura.herokuapp.com/#appointment,color-contrast,serious,Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds,Elements must meet minimum color contrast ratio thresholds,https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=playwright
+,li:nth-child(3) > a[href="./"][onclick="$('#menu-close').click();"],
+,a[href$="history.php#history"],
+,a[href$="profile.php#profile"],
+,a[href="authenticate.php?logout"],
+,.text-muted,
+https://katalon-demo-cura.herokuapp.com/#appointment,link-name,serious,Ensure links have discernible text,Links must have discernible text,https://dequeuniversity.com/rules/axe/4.10/link-name?application=playwright
+,#menu-toggle,
+,#menu-close,
+,li:nth-child(1) > a[href="#"],
+,li:nth-child(2) > a[href="#"],
+,li:nth-child(3) > a[href="#"],
+,#to-top,
+https://katalon-demo-cura.herokuapp.com/#appointment,list,serious,Ensure that lists are structured correctly,<ul> and <ol> must only directly contain <li>, <script> or <template> elements,https://dequeuniversity.com/rules/axe/4.10/list?application=playwright
+,.sidebar-nav,
